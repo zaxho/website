@@ -87,7 +87,7 @@ btn-success
 
 /* mouse over link */
 a:hover {
-  color: white;
+  color: grey;
 }
 
 /* selected link */
